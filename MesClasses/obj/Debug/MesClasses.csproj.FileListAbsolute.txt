@@ -1,0 +1,10 @@
+C:\Users\alexa\Downloads\ProjetTeletonV3\ProjetTeleton\MesClasses\bin\Debug\MesClasses.dll
+C:\Users\alexa\Downloads\ProjetTeletonV3\ProjetTeleton\MesClasses\bin\Debug\MesClasses.pdb
+C:\Users\alexa\Downloads\ProjetTeletonV3\ProjetTeleton\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\ProjetTeletonV3\ProjetTeleton\MesClasses\obj\Debug\MesClasses.dll
+C:\Users\alexa\Downloads\ProjetTeletonV3\ProjetTeleton\MesClasses\obj\Debug\MesClasses.pdb
+C:\Users\alexa\Documents\ProjetC#\ProjetTeleton\MesClasses\bin\Debug\MesClasses.dll
+C:\Users\alexa\Documents\ProjetC#\ProjetTeleton\MesClasses\bin\Debug\MesClasses.pdb
+C:\Users\alexa\Documents\ProjetC#\ProjetTeleton\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\ProjetC#\ProjetTeleton\MesClasses\obj\Debug\MesClasses.dll
+C:\Users\alexa\Documents\ProjetC#\ProjetTeleton\MesClasses\obj\Debug\MesClasses.pdb
